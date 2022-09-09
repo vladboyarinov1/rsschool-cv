@@ -13,9 +13,11 @@ Get Frontend Developer position
 ***
 
 ### Professional skills
-HTML code: HTML, CSS, methodology BEM. Preprocessing: SCSS.
+HTML code: HTML, CSS, methodology BEM.
+Preprocessing: SCSS.
 Tools: VS Code, GitHub pages.
-Background knowledge: JavaScript, React Graphic editors: Avocode, Photoshop,Figma.
+Background knowledge: JavaScript, React
+ Graphic editors: Avocode, Photoshop,Figma.
 ***
 ### Code Example
     function opposite(number) {
@@ -33,7 +35,7 @@ Background knowledge: JavaScript, React Graphic editors: Avocode, Photoshop,Figm
 * English Pre-Intermediate
 ***
 ### Education
-2020-2024
+* 2020-2024
 Belarussian National Technical University Faculty of Information Technology and Robotics Information technology software
 ***
 
