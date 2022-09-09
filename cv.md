@@ -1,18 +1,18 @@
 ![avatar](avatar.jpg)
 ## Vladislav Boiarinov
 ***
-###Contacts
+### Contacts
 - Location: Minsk, Belarus
 - Discord: Vlad Boiarinov(@vladboyarinov1)
 - GitHub: vladboyarinov1
 - E-mail: boyarinov.2002@bk.ru
 - Phone: +375(29)8336185
 ***
-###Purpose
+### Purpose
 Get Frontend Developer position
 ***
 
-###Professional skills
+### Professional skills
 HTML code: HTML, CSS, methodology BEM. Preprocessing: SCSS.
 Tools: VS Code, GitHub pages.
 Background knowledge: JavaScript, React Graphic editors: Avocode, Photoshop,Figma.
@@ -22,7 +22,7 @@ Background knowledge: JavaScript, React Graphic editors: Avocode, Photoshop,Figm
         return(-number)
     }
 ***
-###My projects
+### My projects
 
 * https://vladboyarinov1.github.io/mebeland/
 * https://vladboyarinov1.github.io/sushi/ 
